@@ -1,11 +1,17 @@
 # Data Science Curriculum
 ## Code Your Dreams
 
-### Introduction to Python
+### What is a Data Scientist?
 
 | **Class** |        **Title**       | **Slides** |
 |:---------:|:----------------------:|:----------:|
 |     1     | Welcome                | [Link](Class%2001%20-%20Welcome/class01_welcome.ipynb) |
+
+
+### Introduction to Python
+
+| **Class** |        **Title**       | **Slides** |
+|:---------:|:----------------------:|:----------:|
 |     2     | My first `hello world` | [Link](Class%2002%20-%20My%20first%20Hello%20World/class02_helloworld.ipynb) |
 |     3     | Python Variables and DataTypes   | [Link](Class%2003%20-%20Variables%20and%20Datatypes/class03_variables_datatypes.ipynb) |
 |     4     | Arithmetic syntax      | [Link](Class%2004%20-%20Arithmetic%20syntax/class04_arithmetic_syntax.ipynb) |
