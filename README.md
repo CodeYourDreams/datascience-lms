@@ -1,4 +1,4 @@
-# Data Science
+# Data Science Curriculum
 ## Code Your Dreams
 
 ### Introduction to Python
