@@ -1,8 +1,6 @@
 # Data Science by Code Your Dreams
 
 
-## Slides 
-
 | **Class** |        **Title**       | **Slides** | **Google Colab** |
 |:---------:|:----------------------:|:----------:|:----------------:|
 |     1     | Welcome                | [Link](Class%2001%20-%20Welcome/class01_welcome.ipynb) | N/A |
