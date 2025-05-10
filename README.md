@@ -36,7 +36,7 @@
 
 | **Class** |        **Title**       | **Slides** |
 |:---------:|:----------------------:|:----------:|
-|    14     | Data Acquisition & Web Scraping   | [Link](Class%2014%20-%20Webscraping/class14_web_scraping.ipynb) |
+|    14     | Data Acquisition & Web Scraping   | [Link](Class%2014%20-%20NLP/class14_web_scraping.ipynb) |
 
 
 ### Natural Language Processing
