@@ -29,24 +29,24 @@
 
 | **Class** |        **Title**       | **Slides** |
 |:---------:|:----------------------:|:----------:|
-|    14     | Data Science Pipeline  | [Link](Class%2014%20-%20Data%20Science%20pipeline/class14_ds.ipynb) |
+|    13     | Data Science Pipeline  | [Link](Class%2013%20-%20Data%20Science%20pipeline/class13_ds.ipynb) |
 
 
 ### Data Acquisition
 
 | **Class** |        **Title**       | **Slides** |
 |:---------:|:----------------------:|:----------:|
-|    15     | Data Acquisition & Web Scraping   | [Link](Class%2015%20-%20Webscraping/class15_web_scraping.ipynb) |
+|    14     | Data Acquisition & Web Scraping   | [Link](Class%2014%20-%20Webscraping/class14_web_scraping.ipynb) |
 
 
 ### Natural Language Processing
 
 | **Class** |        **Title**       | **Slides** |
 |:---------:|:----------------------:|:----------:|
-|    17     | What is NLP?           | [Link](Class%2017%20-%20Language/class_17_language.ipynb) |
-|    18     | Text pre-processing    | [Link](Class%2018%20-%20Word%20Cloud/class_18_wordcloud.ipynb) |
-|    19     | TF-IDF                 | [Link](Class%2019%20-%20TF-IDF/class_19_tfidf.ipynb) |
-|    20     | Word2Vec               | [Link](Class%2020%20-%20Word2Vec/class_20_word2vec.ipynb) |
+|    15     | What is NLP?           | [Link](Class%2015%20-%20Language/class_15_nlp.ipynb) |
+|    16     | Text pre-processing    | [Link](Class%2016%20-%20Word%20Cloud/class_16_wordcloud.ipynb) |
+|    17     | TF-IDF                 | [Link](Class%2017%20-%20TF-IDF/class_17_tfidf.ipynb) |
+|    18     | Word2Vec               | [Link](Class%2018%20-%20Word2Vec/class_18_word2vec.ipynb) |
 
 
 ### Classification Models
