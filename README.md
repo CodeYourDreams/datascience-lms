@@ -45,6 +45,8 @@
 
 ### Classification Models
 
+| **Class** |        **Title**       | **Slides** |
+|:---------:|:----------------------:|:----------:|
 |    21     | Performance Metrics    | [Link](Class%2021%20-%20Performance%20Metrics/class_21_performance.ipynb) |
 |    22     | Classification models part 1 | [Link](Class%2021%20-%20Performance%20Metrics/Class%2022%20-%20Classification/class_22_classification.ipynb) |
 |    23     | Classification models part 2 | [Link](Class%2023%20-%20Classification%20part2/class_23_classification.ipynb) |
