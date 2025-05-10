@@ -1,21 +1,30 @@
-# Data Science by Code Your Dreams
+# Data Science
+## Code Your Dreams
 
+### Introduction to Python
+
+
+| **Class** |        **Title**       | **Slides** |
+|:---------:|:----------------------:|:----------:|
+|     1     | Welcome                | [Link](Class%2001%20-%20Welcome/class01_welcome.ipynb) |
+|     2     | My first `hello world` | [Link](Class%2002%20-%20My%20first%20Hello%20World/class02_helloworld.ipynb) |
+|     3     | Python Variables and DataTypes   | [Link](Class%2003%20-%20Variables%20and%20Datatypes/class03_variables_datatypes.ipynb) |
+|     4     | Arithmetic syntax      | [Link](Class%2004%20-%20Arithmetic%20syntax/class04_arithmetic_syntax.ipynb) |
+|     5     | Strings                | [Link](Class%2005%20-%20Strings/class05_strings.ipynb) |
+|     6     | Data Structures        | [Link](Class%2006%20-%20Lists/class06_lists.ipynb) |
+|     7     | Conditionals           | [Link](Class%2007%20-%20Conditionals/class07_conditionals.ipynb) |
+|     8     | Loops                  | [Link](Class%2008%20-%20Loops/class08_loops.ipynb) |
+|     9     | Comprehension lists    | [Link](Class%2009%20-%20Comprehension%20List/class09_comprehension_list.ipynb) |
+|    10     | Functions              | [Link](Class%2010%20-%20Functions/class10_functions.ipynb) |
+|    11     | Libraries              | [Link](Class%2011%20-%20Libraries/class11_libraries.ipynb) |
+|    12     | Python review          | [Link](Class%2012%20-%20Python%20practice/class12_python_practice.ipynb) |
+
+
+
+### Introduction to Data Science
 
 | **Class** |        **Title**       | **Slides** | **Google Colab** |
 |:---------:|:----------------------:|:----------:|:----------------:|
-|     1     | Welcome                | [Link](Class%2001%20-%20Welcome/class01_welcome.ipynb) | N/A |
-|     2     | My first `hello world` | [Link](Class%2002%20-%20My%20first%20Hello%20World/class02_helloworld.ipynb) | N/A |
-|     3     | Google Colab review    | [Link](Class%2003%20-%20Variables%20and%20Datatypes/class03_variables_datatypes.ipynb) | N/A |
-|     4     | Python Variables and DataTypes | [Link](Class%2004%20-%20Variables%20and%20Datatypes%20Part%202/class04_variables_datatypes.ipynb) | [Link](https://colab.research.google.com/drive/1VGBPwvp0MiCbfr0KEtMhiT6T-V1r9N0-?usp=sharing) |
-|     5     | Arithmetic syntax      | [Link](Class%2005%20-%20Arithmetic%20syntax/class05_arithmetic_syntax.ipynb) | [Link](https://colab.research.google.com/drive/1twEg1b0xMa1SFFwo_lWmS8TcGoSn-Nqf?usp=sharing) |
-|     6     | Strings                | [Link](Class%2006%20-%20Strings/class06_strings.ipynb) | [Link]() |
-|     7     | Data Structures        | [Link](Class%2007%20-%20Lists/class07_lists.ipynb) | [Link](https://colab.research.google.com/drive/1CumspJmWjOCdsHVxhPaRKMLccCUgTzSX?usp=sharing) |
-|     8     | Conditionals           | [Link](Class%2008%20-%20Conditionals/class08_conditionals.ipynb) | [Link](https://colab.research.google.com/drive/19NpF7VTFUE-XPn1e6j7sVpoUX8xxNZvV?usp=sharing) |
-|     9     | Loops                  | [Link](Class%2009%20-%20Loops/class09_loops.ipynb) | [Link](https://colab.research.google.com/drive/1zSI9jQI2KNAmXTXSZGQJxDb9s4Mvr7Bz?usp=sharing) |
-|    10     | Comprehension lists    | [Link](Class%2010%20-%20Comprehension%20List/class10_comprehension_list.ipynb) | [Link](https://colab.research.google.com/drive/1O_Lq4oeoe008cY8z_h0BeWCw8Q-hwDMZ?usp=sharing) |
-|    11     | Functions              | [Link](Class%2011%20-%20Functions/class11_functions.ipynb) | [Link](https://colab.research.google.com/drive/1qtNACqDw4hLQrXG-1V_cCwxUxi8Tuasv?usp=sharing) |
-|    12     | Libraries              | [Link](Class%2012%20-%20Libraries/class12_libraries.ipynb) | [Link](https://colab.research.google.com/drive/1H1uFlh8kc_9Nen_qiwqnv-WURkaFLQUg?usp=sharing) |
-|    13     | Python review          | [Link](Class%2013%20-%20Python%20practice/class13_python_practice.ipynb) | [Link](https://colab.research.google.com/drive/15EKM6GZqZcMvU2SRgAXqdpC-l2QM_I3U?usp=sharing) |
 |    14     | Data Science Pipeline  | [Link](Class%2014%20-%20Data%20Science%20pipeline/class14_ds.ipynb) | [Link](https://colab.research.google.com/drive/1N5ReXwJn2fEqlohJI1hOneaFmf6fo9Cj?usp=sharing) |
 |    15     | Webscraping            | [Link](Class%2015%20-%20Webscraping/class15_web_scraping.ipynb) | [Link](https://colab.research.google.com/drive/1a6IQsEVxpmSNHpzGi66yR8I5IuQCb3SZ?usp=sharing) |
 |    16     | Twitter                | [Link](Class%2016%20-%20Twitter/class_16_twitter.ipynb) | [Link](https://colab.research.google.com/drive/1wXA1zPpiDW1pCgH225DkN6kGN-np3r9G?usp=sharing) |
