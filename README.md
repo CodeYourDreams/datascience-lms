@@ -36,14 +36,14 @@
 
 | **Class** |        **Title**       | **Slides** |
 |:---------:|:----------------------:|:----------:|
-|    14     | Data Acquisition & Web Scraping   | [Link](Class%2014%20-%20NLP/class14_web_scraping.ipynb) |
+|    14     | Data Acquisition & Web Scraping   | [Link](Class%2014%20-%20Webscraping/class14_web_scraping.ipynb) |
 
 
 ### Natural Language Processing
 
 | **Class** |        **Title**       | **Slides** |
 |:---------:|:----------------------:|:----------:|
-|    15     | What is NLP?           | [Link](Class%2015%20-%20Language/class_15_nlp.ipynb) |
+|    15     | What is NLP?           | [Link](Class%2015%20-%20NLP/class_15_nlp.ipynb) |
 |    16     | Text pre-processing    | [Link](Class%2016%20-%20Word%20Cloud/class_16_wordcloud.ipynb) |
 |    17     | TF-IDF                 | [Link](Class%2017%20-%20TF-IDF/class_17_tfidf.ipynb) |
 |    18     | Word2Vec               | [Link](Class%2018%20-%20Word2Vec/class_18_word2vec.ipynb) |
