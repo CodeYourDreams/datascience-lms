@@ -54,7 +54,7 @@
 | **Class** |        **Title**       | **Slides** |
 |:---------:|:----------------------:|:----------:|
 |    19     | Performance Metrics    | [Link](Class%2019%20-%20Performance%20Metrics/class_19_performance.ipynb) |
-|    20     | Classification         | [Link](Class%2020%20-%20Performance%20Metrics/Class%2020%20-%20Classification/class_20_classification.ipynb) |
+|    20     | Classification         | [Link](Class%2020%20-%20Classification/class_20_classification.ipynb) |
 |    21     | Clustering             | [Link](Class%2021%20-%20Clustering/class_21_clustering.ipynb) |
 
 
