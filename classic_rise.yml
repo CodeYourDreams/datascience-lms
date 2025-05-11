@@ -1,0 +1,15 @@
+name: classic
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - plotly 
+  - pip:
+      - notebook==6.5.7
+      - rise==5.7.1
+

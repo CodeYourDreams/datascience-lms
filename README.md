@@ -58,3 +58,7 @@
 |    23     | Classification models part 2 | [Link](Class%2023%20-%20Classification%20part2/class_23_classification.ipynb) |
 |    24     | What's next?           | [Link](Class%2024%20-%20Next/class_24_clustering.ipynb) |
 |    25     | Clustering             | [Link](Class%2025%20-%20Clustering/class_25_clustering.ipynb) |
+
+
+
+Installing: conda env create -f classic_rise.yml
